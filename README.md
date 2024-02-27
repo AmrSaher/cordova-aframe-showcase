@@ -12,7 +12,7 @@ cordova platform add ios
 cordova run ios
 ```
 
-Note: Currently, the iOS simulator is VERY slow. It's best to run these on a physical device.
+Note: Currently, the iOS simulator is Very slow. It's best to run these on a physical device.
 
 ## Available Demos
 
